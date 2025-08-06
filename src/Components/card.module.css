@@ -16,6 +16,7 @@ p {
   font-size: 16px;
   font-family: "Inter", sans-serif;
   font-weight: 500;
+  padding: 3px;
 }
 .cardContainer {
   border: 5px solid hsl(0, 29%, 46%);
@@ -63,6 +64,16 @@ button {
 button:hover {
   background-color: hsl(0, 29%, 50%);
   color: white;
+}
+span {
+  padding: 3px;
+}
+.your {
+  color: white;
+}
+.name {
+  color: black;
+  background-color: orange;
 }
 
 @media (max-width: 600px) {
