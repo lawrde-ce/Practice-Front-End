@@ -11,7 +11,7 @@ function ProfileCard() {
           className={card.profileImage}
         />
       </div>
-      <h1>Lawrde Darryle Amancio</h1>
+      <h1>Your Name</h1>
       <p>
         lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua.
